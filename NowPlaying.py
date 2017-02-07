@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.5
+
 from objc_util import *
 import twitter
 import dialogs
